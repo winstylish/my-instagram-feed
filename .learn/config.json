@@ -136,7 +136,7 @@
         }
     },
     "address": "http://localhost:3000",
-    "currentExercise": "default-index",
+    "currentExercise": null,
     "exercises": [
         {
             "position": 0,
@@ -147,7 +147,7 @@
                 "us": "README.md"
             },
             "language": "html",
-            "entry": ".//index.html",
+            "entry": "index.html",
             "title": "default-index",
             "graded": false,
             "files": [
