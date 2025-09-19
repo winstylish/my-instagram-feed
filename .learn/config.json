@@ -1,0 +1,232 @@
+{
+    "config": {
+        "port": 3000,
+        "os": "win32",
+        "editor": {
+            "mode": "extension",
+            "agent": "vscode",
+            "version": "5.0.278"
+        },
+        "dirPath": "./.learn",
+        "configPath": "learn.json",
+        "outputPath": ".learn/dist",
+        "publicPath": "/preview",
+        "publicUrl": "http://localhost:3000",
+        "contact": "https://github.com/learnpack/learnpack/issues/new",
+        "language": "auto",
+        "autoPlay": false,
+        "projectType": "project",
+        "grading": "isolated",
+        "exercisesPath": "./",
+        "webpackTemplate": null,
+        "disableGrading": false,
+        "disabledActions": [],
+        "actions": [],
+        "entries": {
+            "html": "index.html",
+            "vanillajs": "index.js",
+            "react": "app.jsx",
+            "node": "app.js",
+            "python3": "app.py",
+            "java": "app.java"
+        },
+        "suggestions": {
+            "agent": "vscode"
+        },
+        "warnings": {},
+        "gitpod": "True",
+        "title": {
+            "us": "Simple Instagram Photo Feed with HTML/CSS",
+            "es": "Feed simple de fotos de Instagram con HTML/CSS"
+        },
+        "slug": "instagram-feed",
+        "status": "published",
+        "translations": [
+            "es",
+            "en"
+        ],
+        "difficulty": "beginner",
+        "solution": "https://bitbucket.org/codingacademy/instagram-without-bootstrap",
+        "duration": 6,
+        "template_url": "https://github.com/4GeeksAcademy/html-hello",
+        "description": {
+            "us": "Learn the basics of HTML5 and CSS by creating a simple Instagram photo feed simulation. This project helps you practice essential web development skills, like reusing CSS classes, building layouts, centering elements, and positioning",
+            "es": "Aprende los conceptos básicos de HTML5 y CSS creando una sencilla simulación de un feed de fotos de Instagram. Este proyecto te ayudará a practicar habilidades esenciales de desarrollo web, como reutilizar clases de CSS, construir diseños, centrar elementos y trabajar con posicionamiento."
+        },
+        "preview": "https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true",
+        "technologies": [
+            "html",
+            "css",
+            "flex-box",
+            "layouts",
+            "css-grid",
+            "html/css"
+        ],
+        "talents": [
+            {
+                "badge": "identator",
+                "points": 10
+            },
+            {
+                "badge": "tag-master",
+                "points": 10
+            },
+            {
+                "badge": "path-master",
+                "points": 10
+            },
+            {
+                "badge": "select-everything",
+                "points": 10
+            },
+            {
+                "badge": "be-dry",
+                "points": 10
+            },
+            {
+                "badge": "abc",
+                "points": 10
+            }
+        ],
+        "video-id": "0UrDxsUjF4U",
+        "timeline": [
+            {
+                "seconds": "1",
+                "description": "Introduction"
+            },
+            {
+                "seconds": "77",
+                "description": "Configuring the project"
+            },
+            {
+                "seconds": "115",
+                "description": "Creating the index.html structure"
+            },
+            {
+                "seconds": "230",
+                "description": "Connecting the styles.css"
+            },
+            {
+                "seconds": "292",
+                "description": "The post header, image and description"
+            },
+            {
+                "seconds": "572",
+                "description": "Removing the header top margin"
+            },
+            {
+                "seconds": "640",
+                "description": "Centering the website"
+            },
+            {
+                "seconds": "811",
+                "description": "Padding for text separation"
+            },
+            {
+                "seconds": "896",
+                "description": "Using display inline-block"
+            },
+            {
+                "seconds": "1336",
+                "description": "Last little details"
+            }
+        ],
+        "telemetry": {
+            "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=164"
+        }
+    },
+    "address": "http://localhost:3000",
+    "currentExercise": "default-index",
+    "exercises": [
+        {
+            "position": 0,
+            "path": "./",
+            "slug": "default-index",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": ".//index.html",
+            "title": "default-index",
+            "graded": false,
+            "files": [
+                {
+                    "path": ".//.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": ".//.github",
+                    "name": ".github",
+                    "hidden": true
+                },
+                {
+                    "path": ".//.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": ".//index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": ".//inst-3.png",
+                    "name": "inst-3.png",
+                    "hidden": true
+                },
+                {
+                    "path": ".//inst-5.png",
+                    "name": "inst-5.png",
+                    "hidden": true
+                },
+                {
+                    "path": ".//inst-6.png",
+                    "name": "inst-6.png",
+                    "hidden": true
+                },
+                {
+                    "path": ".//learn.json",
+                    "name": "learn.json",
+                    "hidden": true
+                },
+                {
+                    "path": ".//preview.gif",
+                    "name": "preview.gif",
+                    "hidden": true
+                },
+                {
+                    "path": ".//README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": ".//README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": ".//strategy.png",
+                    "name": "strategy.png",
+                    "hidden": true
+                },
+                {
+                    "path": ".//style.css",
+                    "name": "style.css",
+                    "hidden": false
+                },
+                {
+                    "path": ".//thumb.png",
+                    "name": "thumb.png",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        }
+    ],
+    "bugsLink": null,
+    "videoSolutions": false,
+    "localhostOnly": false,
+    "session": 6018955484139972000
+}

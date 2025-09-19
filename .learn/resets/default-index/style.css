@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+}
+
+/* Titulo */
+.titulo-h1 {
+  background: white;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Div Principal */
+.div-principal-feed {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 0 10px;
+}
+
+/* Div do los Posts*/
+.post {
+  background: white;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Titulo + Fecha */
+.titulos-post-div {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.titulos-post {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.fecha {
+  color: gray;
+  font-size: 14px;
+}
+
+/* Imagen */
+.img-post img {
+  width: 100%;
+  display: block;
+}
+
+/* Texto del Post */
+.texto-post {
+  padding: 10px;
+  font-size: 14px;
+}
